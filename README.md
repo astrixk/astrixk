@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science  
 - 🌱 I’m currently learning C++, C#, python, Java script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... anyone can contact me through my email sampathguruprasad@gmail.com
 
 <!---
 astrixk/astrixk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
