@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrixk
-- 👀 I’m interested in Machine Learning and Data Science  
-- 🌱 I’m currently learning C++, C#, python, Java script
+- 👀 I’m interested in WebDev and Operating systems.  
+- 🌱 I’m currently learning Java script, CSS, HTML, Linux kernel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anyone can contact me through my email sampathguruprasad@gmail.com
 
